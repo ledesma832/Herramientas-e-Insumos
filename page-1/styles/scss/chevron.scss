@@ -1,0 +1,53 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 8.6rem;
+}.chevron-18a {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  position: relative;
+  row-gap: 1.6rem;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+
+  .property-1default-UXx {
+    cursor: pointer;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 4.6rem;
+    height: 4.6rem;
+  }
+  .property-1variant2-PQ2 {
+    border-radius: 0.6rem;
+    flex-shrink: 0;
+    width: 4.6rem;
+    height: 4.6rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .property-1disabled-iSJ {
+    vertical-align: top;
+    flex-shrink: 0;
+    width: 4.6rem;
+    height: 4.6rem;
+    object-fit: contain;
+  }
+}

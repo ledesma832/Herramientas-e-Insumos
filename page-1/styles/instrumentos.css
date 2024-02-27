@@ -1,0 +1,29 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 10.4rem;
+}.instrumentos-xVt {
+  width: 100%;
+  height: 2.4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #090e0d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,1753 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 54.2rem;
+}.calendar-rEz {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.calendar-rEz .property-1default-Pki {
+  margin-bottom: 8.3rem;
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .header-Xrv {
+  margin-bottom: 3.55rem;
+  width: 100%;
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .header-Xrv .febrero-2024-gE2 {
+  margin: 0.1rem 19.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .header-Xrv .frame-9-P8S {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .header-Xrv .frame-9-P8S .chevron-jTC {
+  margin: 0rem 2.7rem 0rem 0rem;
+  width: 0.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .header-Xrv .frame-9-P8S .chevron-Te6 {
+  width: 4.6rem;
+  height: 4.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe {
+  margin: 0rem 2.3rem 2.25rem 2.1rem;
+  width: calc(100% - 4.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .mo-rw8 {
+  margin-right: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .tu-nJz {
+  margin-right: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .we-6qU {
+  margin-right: 4.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .th-daW {
+  margin-right: 4.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .fr-xcn {
+  margin-right: 4.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .sa-VMp {
+  margin-right: 4.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .row-YQe .su-Doc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc {
+  width: 100%;
+  height: 31.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-2WA {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-6F8 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-NCe {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-eR4 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-Wy4 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-PGA {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-VFL .cell-47Q {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-Eg6 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-irA {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-PSW {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-FUi {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-XSE {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-16W {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-LKp .cell-5cA {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 12.6rem;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-Vft {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-BYi {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-fTt {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-wRQ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-oyQ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-gnJ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-ZnE .cell-xjp {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 18.9rem;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-xdL {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-FMY {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-FF4 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-Wwg {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-zbx {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-4ri {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-dqx .cell-kDk {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 25.2rem;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-ZBC {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-SVt {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-Vj4 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-xce {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-dTt {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-Wna {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1default-Pki .days-ze2 .auto-group-cwwv-wjc .row-pzJ .cell-CfQ {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1variant2-3R8 {
+  box-sizing: border-box;
+  padding: 3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .header-afx {
+  margin: 0rem 1.9rem 3.55rem 0rem;
+  width: calc(100% - 1.9rem);
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .header-afx .marzo-2024-Jbx {
+  margin: 0.1rem 19.6rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .header-afx .frame-9-cce {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .header-afx .frame-9-cce .chevron-APG {
+  margin-right: 2.7rem;
+  width: 4.6rem;
+  height: 4.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .header-afx .frame-9-cce .chevron-6Xp {
+  margin-top: 0rem;
+  width: 0.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk {
+  margin: 0rem 2.3rem 2.25rem 2.1rem;
+  width: calc(100% - 4.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .mo-qti {
+  margin-right: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .tu-N7x {
+  margin-right: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .we-tMC {
+  margin-right: 4.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .th-pEr {
+  margin-right: 4.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .fr-MVg {
+  margin-right: 4.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .sa-Vbt {
+  margin-right: 4.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .row2-MTk .su-di6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 {
+  width: 100%;
+  height: 31.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-qJN {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-vai {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-QVt {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-tR4 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-a2z {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-4Tx {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-VkJ .cell-wne {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-AfQ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-4Ez {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-ME6 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-dBc {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-KKL {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-Qra {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-qNE .cell-tmk {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 12.6rem;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-WYE {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-1E6 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-HxJ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-nPG {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-UWz {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-NcN {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-PCi .cell-4k6 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 18.9rem;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-VKc {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-NuC {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-52v {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-wav {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-S1t {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-XZ8 {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-9mY .cell-zxW {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi {
+  width: 44.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 25.2rem;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-R2E {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-K7c {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-CSJ {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-Uei {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-y5g {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-SEA {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 31.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}
+.calendar-rEz .property-1variant2-3R8 .days-D6e .auto-group-qz8j-Ai2 .row2-Hgi .cell-vf8 {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a7a7a7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d4d4df;
+  box-sizing: border-box;
+  background-color: #f2f2f7;
+}

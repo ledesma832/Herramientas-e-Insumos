@@ -1,0 +1,202 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 2051.4rem;
+}.component-6-gb8 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-6-gb8 .property-1frame-11-cjg {
+  margin-right: 459.7rem;
+  box-sizing: border-box;
+  padding-left: 127rem;
+  width: 100.1rem;
+  height: 61rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 26.9rem;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/descarga-8-1-bg.png');
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-11-cjg .images-3-1-hm8 {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-11-cjg .descarga-9-1-dPt {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-11-cjg .soldando-1-xwx {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-12-Ss8 {
+  margin-right: 632rem;
+  width: 100.1rem;
+  height: 61rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 26.9rem;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-12-Ss8 .descarga-8-1-ZB4 {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-12-Ss8 .images-3-1-gWa {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-12-Ss8 .descarga-9-1-p6z {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-12-Ss8 .soldando-1-wxJ {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-13-5Yi {
+  margin-right: 555.3rem;
+  width: 100.1rem;
+  height: 61rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 26.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-13-5Yi .descarga-8-1-Q5C {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-13-5Yi .images-3-1-92n {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-13-5Yi .descarga-9-1-sjU {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-13-5Yi .soldando-1-26a {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-14-M8r {
+  width: 100.1rem;
+  height: 61rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 26.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-14-M8r .descarga-8-1-H2W {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-14-M8r .images-3-1-cqU {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-14-M8r .descarga-9-1-kwg {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.component-6-gb8 .property-1frame-14-M8r .soldando-1-VuG {
+  width: 100.1rem;
+  height: 61rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}

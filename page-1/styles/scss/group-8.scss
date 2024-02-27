@@ -1,0 +1,76 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 13rem;
+}.group-8-aGN {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .auto-group-gkpr-vLE {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom: 1rem;
+    width: 100%;
+
+    .instrumentos-f2v {
+      flex-shrink: 0;
+      margin-right: 1.6rem;
+      line-height: 1.5;
+      text-transform: capitalize;
+      text-decoration-line: underline;
+      color: #090e0d;
+      display: flex;
+      font-size: 1.6rem;
+      font-weight: 600;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .vector-KtA {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0.5rem;
+      width: 1rem;
+      height: 0.5rem;
+      object-fit: contain;
+    }
+  }
+  .en-stock-TDg {
+    line-height: 1.7142857143;
+    text-transform: capitalize;
+    margin-bottom: 1.2rem;
+    display: flex;
+    font-weight: 600;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    font-size: 1.4rem;
+    text-decoration-line: underline;
+    color: #090e0d;
+  }
+  .sin-stock-NLe {
+    text-decoration-line: underline;
+    color: #090e0d;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    font-size: 1.4rem;
+    font-weight: 600;
+    line-height: 1.7142857143;
+    display: flex;
+    text-transform: capitalize;
+    white-space: nowrap;
+  }
+}

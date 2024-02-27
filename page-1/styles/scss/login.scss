@@ -1,0 +1,740 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 127.168rem;
+}.login-Fmg {
+  box-sizing: border-box;
+  padding-top: 3.3383rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  .auto-group-6tnv-ySn {
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 13.851rem 3.262rem 0rem;
+    height: 4.4rem;
+    display: flex;
+
+    .link-logo-charitfixpng-gMC {
+      height: 4.4rem;
+      position: relative;
+      background-size: 100% 100%;
+      background-image: url('REPLACE_IMAGE:cd672ca0f5b18af2d5cf85e5a58e3b8ff5628493');
+      flex-shrink: 0;
+      margin-right: 22.5rem;
+      width: 17.8rem;
+    }
+    .nav-list-item-link-home--xJi {
+      text-transform: capitalize;
+      color: #090e0d;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.2rem;
+      display: flex;
+      font-size: 1.6rem;
+      font-weight: 600;
+      line-height: 1.5;
+    }
+    .auto-group-39fk-Ri6 {
+      align-items: center;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.9rem 0rem 1.1rem 0.145rem;
+      height: 100%;
+      display: flex;
+
+      .nav-list-item-link-wAe {
+        margin: 0.6rem 5.272rem 0.2rem 0rem;
+        width: 1.6rem;
+        height: calc(100% - 0.8rem);
+        overflow: hidden;
+        position: relative;
+        flex-shrink: 0;
+      }
+      .component-5-SdC {
+        width: 8.5rem;
+        height: 1.5909rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0.391rem 7rem 0rem 0rem;
+      }
+      .component-4-9nW {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0.391rem 7rem 0rem 0rem;
+        width: 13rem;
+        height: 1.5909rem;
+      }
+      .nav-list-item-link-contact-ToC {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        color: #090e0d;
+        flex-shrink: 0;
+        display: flex;
+        font-weight: 600;
+        text-transform: capitalize;
+        text-decoration-line: underline;
+      }
+    }
+  }
+  .auto-group-yehc-ABp {
+    text-transform: uppercase;
+    background-size: 100% 173.16%;
+    background: linear-gradient(90deg, #00715d 27.6%, rgba(171, 185, 183, 0.1299999952) 72.4%);
+    margin: 0rem 0rem 13.038rem 0.068rem;
+    padding: 9rem 27.2rem;
+    display: flex;
+    color: #ffffff;
+    font-family: Open Sans, 'Source Sans Pro';
+    white-space: nowrap;
+    background-position: 0 -16.0952rem;
+    background-image: url('REPLACE_IMAGE:3b3964f15e02781b019cc271e3ce77c99cfefadd');
+    box-sizing: border-box;
+    font-weight: 700;
+    line-height: 1;
+    flex-shrink: 0;
+    width: 127.1rem;
+    font-size: 4rem;
+
+    .auto-group-yehc-ABp-bg {
+      background-image: url('REPLACE_IMAGE:3b3964f15e02781b019cc271e3ce77c99cfefadd');
+      width: 127.1rem;
+      height: 22rem;
+      position: relative;
+    }
+  }
+  .main-H9x {
+    flex-direction: column;
+    box-shadow: 0 0 6rem rgba(0, 0, 0, 0.0700000003);
+    border-radius: 1rem;
+    margin: 0rem 27.101rem 9rem 32.1rem;
+    box-sizing: border-box;
+    width: calc(100% - 59.2012rem);
+    display: flex;
+    padding: 4.8rem 0rem 5.4rem 4.233rem;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+
+    .link-logo-charitfixpng-xmt {
+      background-size: 100% 100%;
+      background-image: url('REPLACE_IMAGE:cd672ca0f5b18af2d5cf85e5a58e3b8ff5628493');
+      flex-shrink: 0;
+      margin: 0rem 5.27rem 4rem 0rem;
+      width: 17.8rem;
+      height: 4.4rem;
+      position: relative;
+    }
+    .form-label-email-euc {
+      display: flex;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-family: Open Sans, 'Source Sans Pro';
+      margin: 0rem 58.5rem 0.8rem 0rem;
+      line-height: 1.5;
+      text-transform: capitalize;
+      color: #636b6a;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .form-input-9rN {
+      width: 100%;
+      height: 5rem;
+      background-color: #f8f8f8;
+      border-radius: 0.8rem;
+      flex-shrink: 0;
+      margin-bottom: 2.4rem;
+      box-sizing: border-box;
+      padding: 1.5rem 2.167rem;
+      border: solid 0.1rem #cccdd3;
+
+      .divplaceholder-grJ {
+        margin-right: 47rem;
+        position: relative;
+        font-weight: 400;
+        justify-content: center;
+        overflow: hidden;
+        height: 100%;
+        display: flex;
+        line-height: 1.2125;
+        align-items: center;
+        width: 12.4rem;
+        font-size: 1.6rem;
+        color: #999999;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .form-label-password-MBk {
+      line-height: 1.5;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-weight: 400;
+      text-transform: capitalize;
+      color: #636b6a;
+      margin: 0rem 55.3rem 0.8rem 0rem;
+      font-size: 1.6rem;
+    }
+    .form-input-ewY {
+      height: 5rem;
+      align-items: center;
+      border: solid 0.1rem #cccdd3;
+      width: calc(100% - 0.7rem);
+      display: flex;
+      background-color: #f8f8f8;
+      border-radius: 0.8rem;
+      flex-shrink: 0;
+      margin: 0rem 0.7rem 0.3rem 0rem;
+      box-sizing: border-box;
+      padding: 1.5rem 5.543rem 1.5rem 1.467rem;
+
+      .divplaceholder-kDt {
+        flex-shrink: 0;
+        margin-right: 42.501rem;
+        width: 11.9rem;
+        height: 100%;
+        position: relative;
+        font-weight: 400;
+        line-height: 1.2125;
+        justify-content: center;
+        overflow: hidden;
+        display: flex;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        align-items: center;
+        font-size: 1.6rem;
+        color: #999999;
+      }
+      .form-3in {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-top: 0.6rem;
+        width: 1.623rem;
+        height: 1.35rem;
+      }
+    }
+    .auto-group-p2d4-Lxn {
+      margin: 0rem 5.167rem 3.35rem 0.567rem;
+      width: calc(100% - 5.734rem);
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+
+      .form-link-fEN {
+        white-space: nowrap;
+        background-color: #00715d;
+        margin: 2.1rem 34.766rem 0rem 0rem;
+        width: 10.534rem;
+        display: flex;
+        justify-content: center;
+        line-height: 1.5;
+        color: #ffffff;
+        overflow: hidden;
+        position: relative;
+        text-transform: capitalize;
+        border-radius: 1rem;
+        flex-shrink: 0;
+        height: 5.4rem;
+        align-items: center;
+        font-size: 1.6rem;
+        font-weight: 700;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .form-link-forgot-password-iCe {
+        white-space: nowrap;
+        flex-shrink: 0;
+        display: flex;
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #00715d;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .dont-have-an-account-register-Rcr {
+      margin: 0rem 5.23rem 2.25rem 0rem;
+      align-items: baseline;
+      justify-content: center;
+      font-size: 1.4rem;
+      letter-spacing: 0.05rem;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      display: flex;
+      font-weight: 400;
+      line-height: 1.4285714286;
+      color: #666666;
+      white-space: nowrap;
+
+      .dont-have-an-account-register-Rcr-sub-0 {
+      }
+      .dont-have-an-account-register-Rcr-sub-1 {
+        font-size: 1.4rem;
+        font-weight: 400;
+        line-height: 1.4285714286;
+        letter-spacing: 0.05rem;
+        color: #00715d;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .link-5zE {
+      box-sizing: border-box;
+      width: calc(100% - 15.034rem);
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 10.167rem 0rem 4.867rem;
+      padding: 1.3rem 19.85rem 1.3rem 12.5rem;
+      align-items: center;
+      border: solid 0.1rem rgba(168, 168, 168, 0.4199999869);
+      border-radius: 0.6rem;
+
+      .google-iconpng-nNr {
+        position: relative;
+        background-size: 100% 100%;
+        background-image: url('REPLACE_IMAGE:7e308d017d4c83d14c2046673ce445e287ce3927');
+        flex-shrink: 0;
+        margin-right: 2.35rem;
+        width: 2.3rem;
+        height: 2.4rem;
+      }
+      .login-with-google-hEv {
+        margin-top: 0.1rem;
+        display: flex;
+        font-weight: 500;
+        white-space: nowrap;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.4rem;
+        line-height: 1.5;
+        color: #666666;
+      }
+    }
+  }
+  .footer-Kn6 {
+    margin-right: 0.0682rem;
+    width: 127.1rem;
+    height: 65.3rem;
+    position: relative;
+    background: linear-gradient(267.95deg, #222928 148%, #090e0d 199.4%);
+    flex-shrink: 0;
+
+    .before-rGE {
+      background-position: 44.6645rem 3.7rem;
+      background-image: url('REPLACE_IMAGE:7e5681506b5d41c0e9a1c885fab334dd33591152');
+      width: 92.9515rem;
+      height: 65.3rem;
+      position: relative;
+      left: 0;
+      top: 0;
+      background-size: 43.683% 88.668%;
+    }
+    .divcontainer-Yer {
+      left: 11.3rem;
+      top: 8.1rem;
+      width: 112.6rem;
+      height: 47.7rem;
+      position: absolute;
+
+      .auto-group-o3dx-4t6 {
+        box-sizing: border-box;
+        padding: 0rem 9.4rem 11.65rem 9.3rem;
+        width: 100%;
+        height: 47.6rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .auto-group-t7xl-aLe {
+          margin: 0rem 0rem 11.9rem 34.895rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .nav-list-item-link-home-ts8 {
+            font-size: 1.8rem;
+            display: flex;
+            font-weight: 600;
+            line-height: 1;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 6.02rem 0.4rem 0rem;
+          }
+          .component-2-mvv {
+            margin: 0rem 6.115rem 0.019rem 0rem;
+            width: 8.3852rem;
+            height: 1.1807rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .component-4-6iJ {
+            margin: 0rem 6rem 0.019rem 0rem;
+            width: 12.8852rem;
+            height: 1.1807rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .nav-list-item-link-contact-S1U {
+            font-size: 1.6rem;
+            line-height: 1.5;
+            text-transform: capitalize;
+            color: #ffffff;
+            white-space: nowrap;
+            display: flex;
+            font-weight: 600;
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-rzb8-k2A {
+          margin: 0rem 14.1rem 0.75rem 0rem;
+          display: flex;
+          align-items: flex-start;
+          flex-shrink: 0;
+
+          .heading-4-explore-links-fup {
+            flex-shrink: 0;
+            margin: 0.2rem 18.8rem 0rem 0rem;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            font-size: 2rem;
+            font-weight: 700;
+          }
+          .heading-4-get-support-mxr {
+            font-weight: 700;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-right: 23.7rem;
+            display: flex;
+            font-size: 2rem;
+            white-space: nowrap;
+          }
+          .heading-4-get-support-JSz {
+            flex-shrink: 0;
+            margin-top: 1.2rem;
+            font-size: 2rem;
+            font-weight: 700;
+            line-height: 1.5;
+            white-space: nowrap;
+            display: flex;
+            color: #ffffff;
+            font-family: Open Sans, 'Source Sans Pro';
+          }
+        }
+        .auto-group-fhkl-RnW {
+          margin-right: 7.8rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-lnmt-NSr {
+            margin: 0.2rem 19.1rem 0rem 0rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .list-item-link-about-company-79Y {
+              font-size: 1.6rem;
+              white-space: nowrap;
+              display: flex;
+              font-weight: 400;
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              flex-shrink: 0;
+              margin-bottom: 1.05rem;
+            }
+            .list-item-link-latest-projects-pZk {
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+          .auto-group-sjbl-LHC {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 0rem 25.7rem 0.25rem 0rem;
+            display: flex;
+
+            .list-item-link-about-g6A {
+              display: flex;
+              line-height: 1.5625;
+              color: #949b95;
+              white-space: nowrap;
+              margin-bottom: 1rem;
+              font-size: 1.6rem;
+              font-weight: 400;
+              font-family: Inter, 'Source Sans Pro';
+              flex-shrink: 0;
+            }
+            .list-item-link-how-it-works-zsY {
+              display: flex;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+            }
+          }
+          .list-item-Kev {
+            vertical-align: top;
+            border-radius: 0.5rem;
+            flex-shrink: 0;
+            margin: 0rem 1rem 0.75rem 0rem;
+            width: 3rem;
+            height: 3rem;
+            object-fit: contain;
+          }
+          .list-item-link-donationgmailcom-358 {
+            display: flex;
+            text-decoration-line: underline;
+            color: #949b95;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 0.75rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5625;
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-9ptg-Yna {
+          margin: 0rem 13.6rem 0.75rem 0rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .list-item-link-latest-blog-gdt {
+            margin: 1rem 17.1rem 0rem 0rem;
+            display: flex;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.5625;
+            color: #949b95;
+            flex-shrink: 0;
+          }
+          .list-item-link-knowledge-hub-yst {
+            display: flex;
+            line-height: 1.5625;
+            color: #949b95;
+            font-family: Inter, 'Source Sans Pro';
+            margin: 0.5rem 23.7rem 0rem 0rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .list-item-h3C {
+            flex-shrink: 0;
+            margin: 0rem 1rem 0.5rem 0rem;
+            width: 3rem;
+            height: 3rem;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 0.5rem;
+          }
+          .list-item-link-88-111-222-333-CEr {
+            flex-shrink: 0;
+            display: flex;
+            font-weight: 400;
+            line-height: 1.5625;
+            color: #949b95;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 0.5rem;
+            font-size: 1.6rem;
+          }
+        }
+        .auto-group-uvwi-6r2 {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-vprz-FU2 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 0.2rem 19.4rem 0rem 0rem;
+
+            .list-item-link-our-testimonials-nTx {
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              font-weight: 400;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 1rem;
+              display: flex;
+              font-size: 1.6rem;
+            }
+            .list-item-link-our-mission-JBQ {
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.6rem;
+              font-weight: 400;
+            }
+          }
+          .auto-group-6ntw-1rW {
+            margin: 0rem 23.6rem 0.2rem 0rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .list-item-link-success-stories-xFx {
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 1rem;
+              display: flex;
+              font-weight: 400;
+              font-size: 1.6rem;
+              line-height: 1.5625;
+            }
+            .list-item-link-contact-H3L {
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.6rem;
+              font-weight: 400;
+              line-height: 1.5625;
+              color: #949b95;
+              font-family: Inter, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .list-item-QNr {
+            border-radius: 0.5rem;
+            flex-shrink: 0;
+            margin: 0rem 1rem 1.7rem 0rem;
+            width: 3rem;
+            height: 3rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+          .list-item-link-tropical-cyclone-volcano-8Jr {
+            font-size: 1.6rem;
+            line-height: 1.5625;
+            white-space: nowrap;
+            display: flex;
+            font-weight: 400;
+            color: #949b95;
+            font-family: Inter, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 1.7rem;
+          }
+        }
+      }
+    }
+    .link-logo-charitfixpng-Ecn {
+      width: 17.8rem;
+      height: 4.4rem;
+      position: relative;
+      left: 14.2rem;
+      top: 7rem;
+      background-size: 100% 100%;
+      background-image: url('REPLACE_IMAGE:cd672ca0f5b18af2d5cf85e5a58e3b8ff5628493');
+    }
+    .copyright-2023-inittheme-all-rights-reserved-vkW {
+      width: 36.7rem;
+      justify-content: center;
+      height: 2.5rem;
+      align-items: center;
+      line-height: 1.5625;
+      white-space: nowrap;
+      position: absolute;
+      display: flex;
+      color: #949b95;
+      font-family: Inter, 'Source Sans Pro';
+      left: 19.5141rem;
+      top: 58.4rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+    }
+    .list-item-link-Gxn {
+      width: 3.8rem;
+      height: 3.6rem;
+      position: absolute;
+      left: 102.3rem;
+      top: 58.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+    }
+    .list-item-link-ngE {
+      height: 3.6rem;
+      position: absolute;
+      left: 107.5rem;
+      top: 58.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+      width: 3.8rem;
+    }
+    .list-item-link-6gv {
+      width: 3.8rem;
+      height: 3.6rem;
+      position: absolute;
+      left: 112.7rem;
+      top: 58.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+    }
+    .list-item-link-cvA {
+      top: 58.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+      width: 3.8rem;
+      height: 3.6rem;
+      position: absolute;
+      left: 117.9rem;
+    }
+  }
+}
